@@ -45,8 +45,6 @@ Duration: 3 months (May - July 2020)
   - Code &amp; documentation reviewers will be assigned as milestones near completion.
   - Additional thanks to office staff, accounting, etc for creating a productive workspace.
 
-![](RackMultipart20200423-4-ws22u8_html_17e6b8ec70b00e.gif) **Timeline:**
-
 ## Project Roadmap:
 
 ### Phase 1: Identify and document existing vulnerabilities in Monero
