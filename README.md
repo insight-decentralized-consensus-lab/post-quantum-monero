@@ -75,6 +75,16 @@ There are three possible next steps, depending on the results from the above res
 
 **Phase 3 deliverables:** The best use of time during this final stage depends strongly on results from the exploratory research. Likely deliverables are a proof of concept or prototype tooling for demonstrating a vulnerability or potential solution. An audit of possible weaknesses to qauntum computers could as an extra side effect potentially expose an unseen existing weaknesses to classical computers; any such discovery would of course also be included.   
 
+# Funding
+
+This project is anticipated to take 3 months, and the rate for an Insight research team is 12500 USD per month (201 XMR per month, as of 29-Apr 2020). Insight's bills and employees' salaries are dollar-denominated, so we must minimize exposure to volatility risk. 
+
+We are open to three different approaches, and will let the community choose how to proceed:
+
+1. If payouts can only be received after the work is completed, we will need to add a volatility buffer (see [TL;DR explanation](https://twitter.com/Mitchellpkt0/status/1252720219644063745), and [open source code](https://github.com/Mitchellpkt/volatility_analysis/blob/master/volatility_analysis.ipynb)). Based on the last 2 years of data, and a 4-month window (1 month of fundraising + 3 months of reseearch), a 35% buffer provides a 80% statistical confidence of receiving sufficient payout. Thus the CCS goal would include an extra 4375 USD per month
+2. If the funds can be released at the beginning of the research period, then no buffer is necessary.
+3. Some mutually-trusted third party could escrow the funds in fiat form (to eliminate volatility risk), and pay Insight upon satisfactory work.
+
 # Appendix 1 - Literature
 
 Here is relevant literature that will be reviewed and annotated for utility to Monero. List compiled by Dr. Brandon Gooddell
