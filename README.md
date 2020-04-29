@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/insight-decentralized-consensus-lab/monero_quantum_resistance/master/images/dual_logos.png)
-# Identifying post-quantum strategies for Monero
+# Identifying practical post-quantum strategies for Monero
 
 ## Motivation:
 Monero transactions created between 2014 and 2020 are susceptible to deanonymization by quantum computers. Methods for circumventing several of Monero's security and privacy features are already known, such as [Shor's algorithm](https://ieeexplore.ieee.org/document/365700/) (which [breaks security](https://scialert.net/fulltext/?doi=jas.2005.1692.1712) based on the discrete logarithm problem) and [Grover's algorithm](https://arxiv.org/abs/quant-ph/9605043) (which could be used to [forge blocks](https://www.mitre.org/sites/default/files/publications/17-4039-blockchain-and-quantum-computing.pdf)). In fact, there are several ways that a sophisticated quantum adversary might access another's funds and sensitive information that would otherwise be cryptographically obfuscated:
