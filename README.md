@@ -91,7 +91,7 @@ It's important to note that many current post-quantum cryptography candidates re
 
 ### Phase 3: Communicate and Educate
 
-Throughout this entire project, the community will receive updates during the weekly #monero-research-lab meetings. During phase 3 however, several specific documents (the key deliverables from this research) will be freely published: 
+Throughout this entire project, the community will receive updates during the weekly #monero-research-lab meetings and monthly r/Monero posts. During phase 3 however, several specific documents (the key deliverables from this research) will be freely published: 
 
 **Phase 3 deliverables:** 
 
