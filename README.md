@@ -83,7 +83,7 @@ There are three broad categories of implications, which are not mutually exclusi
 
 Vulnerable privacy features will be given highest priority, since retroactive deanonymization poses a threat to today's Monero users, whereas theft and mining are not an issue until quantum computers scale past a distant threshold. Mining vulnerabilities are the lowest priority, since switching consensus mechanisms is easier than implementing new cryptographic schemes. 
 
-It's important to note that many current post-quantum cryptography candidates require large proofs and significant computational resources, and will thus not be suitable for immediate deployment. For this reason, understanding broad strategies and their tradeoff will be more useful than specific implementations. Thankfully, consumer device capabilities increase over time, and researchers continue to discover new faster/smaller proving systems, so these practical barriers are temporary. 
+It's important to note that many current post-quantum cryptography candidates require large proofs and significant computational resources, and will thus not be suitable for immediate deployment. For this reason, understanding broad strategies and their tradeoffs will be more useful than specific implementations. Thankfully, consumer device capabilities increase over time, and researchers continue to discover new faster/smaller proving systems, so these practical barriers are temporary. 
 
 **Phase 2 deliverables:** List of vulnerabilities, following this format when possible:
 
