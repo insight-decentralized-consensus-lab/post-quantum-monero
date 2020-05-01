@@ -17,7 +17,7 @@ There are several ways that a sophisticated quantum adversary might access funds
 
 Thankfully, cryptographers have developed several post-quantum security and privacy schemes that may be adaptable to Monero. Promising techniques include [zero-knowledge lattice cryptography](https://eprint.iacr.org/2019/747.pdf)  based on the [shortest vector problem](https://en.wikipedia.org/wiki/Lattice_problem#Shortest_vector_problem_(SVP)). Methods such as [hash-based ring signatures](https://eprint.iacr.org/2019/567.pdf), [GLYPH](https://eprint.iacr.org/2017/766.pdf) (Schnorr-like lattice-based signature scheme), and the cohort of [NIST post-quantum](https://csrc.nist.gov/news/2019/pqc-standardization-process-2nd-round-candidates) candidates were all designed to enable security in a post-quantum world. The [quantum resistant ledger](https://theqrl.org/) is of particular interest due to its extensibility, immutability, and RandomX integration - however no privacy features are currently implemented. Other designs for [anonymous post-quantum cryptocash](https://eprint.iacr.org/2017/716.pdf) have been considered, and the [Halo](https://eprint.iacr.org/2019/1021.pdf) recursive zero-knowledge proving system offers plausible post-quantum security. Each approach has its own benefits, drawbacks, and space/time complexity - our research recommendations will take into account these practical considerations in addition to theoretical compatibility.
 
-**This research will (1) study and simulate the threats listed above to assess vulnerability to quantum computers, (2) evaluate post-quantum cryptography scheme candidates to create a roadmap for hardening Monero against quantum adversaries, and (3) provide open-source proof-of-concept code and demos where applicable.**
+**This research will (1) study and simulate the threats listed above to assess Monero's vulnerability to quantum computers, (2) evaluate post-quantum cryptography scheme candidates to create a roadmap for hardening Monero against quantum adversaries, and (3) openly communicate the results for a variety of audiences.**
 
 The advent of powerful quantum computers will wreak havoc on almost every aspect of our digital infrastructure. Access to sound money (which requires privacy) is a fundamental human right and should be considered a high priority for hardening against quantum adversaries. To our knowledge, there are currently no plausibly post-quantum anonymous currencies in use today, meaning that only short-to-intermediate term financial privacy is available with current technology. The first coin to implement long-term post-quantum privacy features will be in a strong position for adoption, even long before quantum computers arrive.
 
@@ -87,11 +87,11 @@ It's important to note that many current post-quantum cryptography candidates re
 
 **Phase 2 deliverables:** List of vulnerabilities, following this format when possible:
 
-> Monero's **[component]** is vulnerable to **[impact]** by a hypothetical adversary that can leverage **[algorithm]**. In general, the solution must meet **[requirements]**. Current relevant methods include **[cryptosystem]** which would require **[migration process]** and has **[tradeoffs]** that would prevent implementation until **[bandwidth/power threshold]** is widely available.
+> Monero's **[component]** is vulnerable to **[impact]** by a hypothetical adversary that can leverage **[algorithm]**. In general, the solution must meet **[requirements]**. Current relevant methods include **[cryptosystem]** which would require **[migration process]** and has **[tradeoffs]** that would prevent implementation until **[device bandwidth/resource threshold]** is widely available.
 
 ### Phase 3: Communicate and Educate
 
-Throughout this entire project, the community will receive updates during the weekly #monero-research-lab meetings and monthly r/Monero posts. During phase 3 however, several specific documents (the key deliverables from this research) will be freely published: 
+Throughout this entire project, the community will receive updates during the weekly #monero-research-lab meetings. During phase 3 however, several specific documents (the key deliverables from this research) will be freely published: 
 
 **Phase 3 deliverables:** 
 
@@ -100,6 +100,8 @@ Throughout this entire project, the community will receive updates during the we
 2. **Technical documentation:** An MRL position paper to distill key information for (current and future) researchers and developers. The writeup should formally describe vulnerabilities, and highlight potential strategies and solutions, noting their tradeoffs. Code snippets may be included if appropriate for pedagogical purposes or clarity.
 
 3. **Non-technical 1-pager:** An ELI5 / TL;DR summary will be provided for journalists, Monero Outreach, etc. This blurb will discuss risks and myths with no technical jargon, with key takeaways that a broad audience will appreciate.
+
+Results and updates will be also disseminated via Twitter threads, Reddit posts, and Breaking Monero videos. 
 
 # Resources
 
