@@ -27,7 +27,7 @@ The advent of powerful quantum computers will wreak havoc on almost every aspect
 
 ## Overview:
 
-R &amp; D Institution: Insight
+R & D Institution: Insight
 
 Funding Institution: Monero CCS
 
@@ -68,7 +68,7 @@ Some vulnerabilities are already known, for example that cryptography based on e
 |---------------------|--------------------|--------------------|-----|
 |  Shor's algorithm   |  Plausibly secure  | Plausibly secure   | ... |
 |  Grover's algorithm | Irrelevant         | **VULNERABLE** | ... |
-| Fourier Fishsing    | Plausibly secure   | Irrelevant         | ... |
+| Fourier Fishing     | Plausibly secure   | Irrelevant         | ... |
 | ...                 | ...                | ...                | ... |
 
 ### Phase 2: Research Monero-compatible post-quantum cryptography methods
