@@ -1,3 +1,8 @@
+Update October 2020 - all esearch deliverables posted for review:
+- [Non-technical abstract](https://github.com/insight-decentralized-consensus-lab/post-quantum-monero/blob/master/writeups/nontechnical_abstract.MD)
+- [Semi-technical summary](https://github.com/insight-decentralized-consensus-lab/post-quantum-monero/blob/master/writeups/semitechnical_summary.MD)
+- [Technical note](https://github.com/insight-decentralized-consensus-lab/post-quantum-monero/blob/master/writeups/technical_note.pdf)
+
 ![](https://raw.githubusercontent.com/insight-decentralized-consensus-lab/monero_quantum_resistance/master/images/dual_logos.png)
 # Identifying practical post-quantum strategies for Monero
 
