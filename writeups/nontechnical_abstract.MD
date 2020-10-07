@@ -1,3 +1,8 @@
+All research deliverables:
+- [Non-technical abstract](https://github.com/insight-decentralized-consensus-lab/post-quantum-monero/blob/master/writeups/nontechnical_abstract.MD) (this document)
+- [Semi-technical summary](https://github.com/insight-decentralized-consensus-lab/post-quantum-monero/blob/master/writeups/semitechnical_summary.MD)
+- [Technical note](https://github.com/insight-decentralized-consensus-lab/post-quantum-monero/blob/master/writeups/technical_note.pdf)
+
 ![https://raw.githubusercontent.com/insight-decentralized-consensus-lab/post-quantum-monero/master/images/dual_logos.png](https://raw.githubusercontent.com/insight-decentralized-consensus-lab/post-quantum-monero/master/images/dual_logos.png)
 
 ## Evaluating cryptocurrency security in a quantum context (non-technical abstract)
