@@ -1,4 +1,4 @@
-Update October 2020 - all esearch deliverables posted for review:
+Update October 2020 - all research deliverables posted for review:
 - [Non-technical abstract](https://github.com/insight-decentralized-consensus-lab/post-quantum-monero/blob/master/writeups/nontechnical_abstract.MD)
 - [Semi-technical summary](https://github.com/insight-decentralized-consensus-lab/post-quantum-monero/blob/master/writeups/semitechnical_summary.MD)
 - [Technical note](https://github.com/insight-decentralized-consensus-lab/post-quantum-monero/blob/master/writeups/technical_note.pdf)
